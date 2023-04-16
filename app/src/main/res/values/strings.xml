@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">7MinuteWorkoutApp</string>
+    <string name="someimage">someImage</string>
+    <string name="startImage">StartImage</string>
+    <string name="get_ready_for">Get Ready For</string>
+    <string name="todo">TODO</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="start">Start</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="todo_oo">TODO</string>
+    <string name="history">History</string>
+    <string name="exercises_completed">Exercises Completed</string>
+    <string name="no_data_available">No Data Available</string>
+</resources>
